@@ -1,0 +1,221 @@
+2
+67
+0 "Av. Faria Lima"
+1 "Av. Rebouças"
+2 "Rua dos Pinheiros"
+3 "Rua Teodoro Sampaio"
+4 "Rua Cardeal Arcoverde"
+5 "Rua Artur de Azevedo"
+6 "Rua Ferreira de Araújo"
+7 "Rua Pais Leme"
+8 "Rua Butantã"
+9 "Rua Aspicuelta"
+10 "Rua Harmonia"
+11 "Rua Girassol"
+12 "Av. Pedroso de Morais"
+13 "Rua Natingui"
+14 "Av. Heitor Penteado"
+15 "Av. Eusébio Matoso"
+16 "Rua Aurélia"
+17 "Rua Clélia"
+18 "Rua Guaicurus"
+19 "Rua Doze de Outubro"
+20 "Rua Tito"
+21 "Rua Pio XI"
+22 "Rua Cerro Corá"
+23 "Rua Coriolano"
+24 "Rua Faustolo"
+25 "Av. Sumaré"
+26 "Rua Cardoso de Almeida"
+27 "Av. Pacaembu"
+28 "Rua Turiassu"
+29 "Rua Venâncio Aires"
+30 "Av. Antártica"
+31 "Av. Pompéia"
+32 "Rua Monte Alegre"
+33 "Rua Ministro Godói"
+34 "Rua Vanderlei"
+35 "Rua Apinajés"
+36 "Rua Cayowaá"
+37 "Rua João Ramalho"
+38 "Av. Vital Brasil"
+39 "Av. Corifeu de Azevedo Marques"
+40 "Av. Eliseu de Almeida"
+41 "Av. Francisco Morato"
+42 "Av. Eiras Garcia"
+43 "Rua Alvarenga"
+44 "Rua Camargo"
+45 "Rua MMDC"
+46 "Av. Escola Politécnica"
+47 "Av. Eng. Billings"
+48 "Av. Jorge João Saad"
+49 "Av. Morumbi"
+50 "Av. Giovanni Gronchi"
+51 "Av. Jaguaré"
+52 "Av. Gastão Vidigal"
+53 "Av. Mofarrej"
+54 "Rua Carlos Weber"
+55 "Rua Imperatriz Leopoldina"
+56 "Marginal Pinheiros"
+57 "Av. Dr. Arnaldo"
+58 "Av. Francisco Matarazzo"
+59 "Av. Fonseca Rodrigues"
+60 "Rua Roma"
+61 "Rua John Harrison"
+62 "Rua Brentano"
+63 "Rua Guaipá"
+64 "Rua Schilling"
+65 "Rua William Speers"
+66 "Estação de Transbordo Jaguaré"
+151
+0 26 900
+0 23 600
+0 35 750
+0 12 1500
+1 13 1500
+1 59 1500
+1 50 1200
+1 10 450
+2 53 1200
+2 36 1050
+2 63 1200
+2 28 300
+2 25 1350
+2 29 1200
+3 23 1350
+3 32 750
+3 13 1350
+4 34 300
+4 44 450
+5 14 1500
+5 64 1200
+5 11 300
+5 58 450
+6 65 300
+6 37 600
+6 41 450
+7 46 1500
+7 48 600
+8 15 750
+8 64 450
+8 56 600
+8 17 1050
+8 63 300
+9 39 300
+9 23 300
+9 47 900
+9 24 600
+10 47 1500
+11 52 450
+11 47 900
+11 49 450
+12 22 1350
+12 38 450
+12 58 450
+12 57 300
+12 23 450
+12 41 1050
+12 62 450
+13 31 600
+13 39 750
+13 36 300
+13 58 900
+13 38 450
+13 62 450
+14 22 1500
+15 23 1500
+15 54 600
+15 63 1350
+16 17 300
+16 24 1200
+16 39 1350
+17 18 900
+17 30 1500
+17 42 1200
+17 56 1200
+18 19 1050
+18 35 1050
+18 62 1500
+19 20 450
+19 35 600
+19 34 300
+20 21 1050
+20 54 1500
+20 65 600
+21 22 450
+21 58 450
+21 26 300
+21 46 1050
+22 23 1050
+22 48 900
+22 38 300
+23 24 600
+23 36 1350
+23 58 900
+24 25 1200
+24 62 1050
+24 49 450
+25 26 750
+26 27 750
+26 49 600
+26 38 300
+26 50 1350
+27 28 900
+27 61 1500
+28 29 600
+29 31 450
+29 59 1200
+29 58 1200
+30 31 900
+30 58 450
+30 63 1200
+31 62 900
+32 52 1200
+32 59 300
+32 33 600
+32 55 450
+34 59 1200
+34 56 1350
+34 58 1200
+35 64 1500
+35 56 1500
+36 58 450
+36 43 450
+37 58 900
+37 62 1350
+37 50 600
+37 48 300
+38 60 900
+38 40 900
+38 41 1500
+38 54 1500
+38 61 1350
+38 48 450
+39 42 900
+40 60 450
+41 59 1050
+42 55 450
+42 54 1200
+44 55 600
+45 49 300
+46 54 450
+48 50 900
+49 62 1200
+49 60 900
+50 55 1500
+51 52 300
+51 54 1500
+54 55 900
+54 64 300
+55 63 600
+55 60 1200
+56 59 1200
+57 58 450
+58 60 750
+59 60 600
+60 62 900
+61 65 900
+61 62 750
+63 64 750
+64 65 300
+51 66 1600
